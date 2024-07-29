@@ -1,0 +1,9 @@
+streamlit==1.36.0
+pandas==2.0.3
+numPy==1.23.2
+matplotlib
+seaborn
+spicy
+plotly
+Pillow
+
